@@ -1,0 +1,14 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+body{
+  font-family: 'Lobster', cursive;
+}
+
+.handler{
+  display: flex;
+}
