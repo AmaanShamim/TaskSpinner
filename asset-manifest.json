@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TaskSpinner/static/css/main.cdabc45e.css",
+    "main.js": "/TaskSpinner/static/js/main.4c57a2ac.js",
+    "static/js/787.08f5e7e7.chunk.js": "/TaskSpinner/static/js/787.08f5e7e7.chunk.js",
+    "static/media/BreakAlarm.mp3": "/TaskSpinner/static/media/BreakAlarm.83f82be1dd44264257fe.mp3",
+    "index.html": "/TaskSpinner/index.html",
+    "main.cdabc45e.css.map": "/TaskSpinner/static/css/main.cdabc45e.css.map",
+    "main.4c57a2ac.js.map": "/TaskSpinner/static/js/main.4c57a2ac.js.map",
+    "787.08f5e7e7.chunk.js.map": "/TaskSpinner/static/js/787.08f5e7e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdabc45e.css",
+    "static/js/main.4c57a2ac.js"
+  ]
+}
